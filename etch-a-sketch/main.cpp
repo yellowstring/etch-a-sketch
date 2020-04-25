@@ -7,9 +7,7 @@
 //
 
 #include <iostream>
-#include <conio.h>
-using namespace std;
 
-int main(int argc, const char * argv[]) {
-    
+int main() {
+    s
 }
